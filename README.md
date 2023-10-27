@@ -6,7 +6,7 @@
 <h1 align=center>Au-delà du code</h1>
 
 <p align=center>
-$${\color{lightgreen}Work \space in \space progress}$$
+$${\color{lightgreen}Work \space in \space progress...}$$
 </p>
 
 <div align=center>
