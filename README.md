@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="75" alt="Cntre de pédiatrie sociale de Québec" src="https://github.com/LaOuede/Pro-Bono/assets/114024436/3488738c-7a6c-4bf6-ad4a-cd7861f18d03"/>
+  <img width="114" alt="42Quebec" src="https://github.com/LaOuede/Pro-Bono/assets/114024436/124ac885-64f1-43b0-bbce-8d04bc7687d7"/> 
 </p>
+
 
 <h1 align=center>Au-delà du code</h1>
 
