@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="114" alt="42Quebec" src="https://github.com/LaOuede/Pro-Bono/assets/114024436/124ac885-64f1-43b0-bbce-8d04bc7687d7"/> 
+  <img height="75" alt="42Quebec" src="https://github.com/LaOuede/Pro-Bono/blob/main/42Quebec.png"/> <img height="75" src="https://github.com/LaOuede/Pro-Bono/blob/main/CentrePediatrieSociale.png"/>
 </p>
 
 
