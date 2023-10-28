@@ -5,11 +5,11 @@
 
 <h1 align=center>Au-delà du code</h1>
 
-<p align=center>
-$${\color{lightgreen}Work \space in \space progress...}$$
-</p>
+<h3 align=center>
+  
+  _Work in progress..._
 
-<div align=center>
+</h3>
 
 <h3 align=center>Project: </h3>
 
