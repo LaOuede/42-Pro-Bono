@@ -46,6 +46,7 @@ Our team is made up of students, former students who have joined the workforce a
 
 </div>
 
+---
 
 <div align="center">
 
