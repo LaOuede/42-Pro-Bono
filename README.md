@@ -26,6 +26,27 @@ Our team is made up of students, former students who have joined the workforce a
 
 </div>
 
+---
+
+<h3 align="left">Stack 🛠️</h3>
+
+<div align="left">
+  Frontend :
+
+  - React: JavaScript framework for creating dynamic and responsive user interfaces.
+  - MUI (Material-UI): Component library for modern and consistent UI design.
+  - Formik: Library for managing and building forms.
+  - Yup: Library for form validation.
+
+  
+  Backend :
+  - NestJS: Node.js framework for building robust and scalable server-side applications.
+  - Prisma: ORM (Object-Relational Mapping) for easy database interaction.
+  - CQRS (Command Query Responsibility Segregation): Design pattern used to separate read and write operations, improving backend performance and scalability.
+
+</div>
+
+
 <div align="center">
 
 Go to [42 Québec](https://42quebec.com/blogue/42-quebec-probono/) to find out more ! 👈
